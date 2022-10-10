@@ -16,6 +16,7 @@ Slides and lab material can be found in [Moodle](https://moodle.jku.at/jku/cours
 ## Setup
 
 1. Clone this repository: `git clone https://github.com/JKU-ICG/cv_lab_2022.git`
-2. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html)
-3. Create the course environment: `conda env create -f environment.yaml`
-4. Before interacting with any course scripts or notebooks remeber to activate the python environment: `conda activate cvlab`
+2. Install [Python](https://www.python.org/downloads/), [Visual Studio Code](https://code.visualstudio.com/)
+3. Install [Python  in VScode](https://marketplace.visualstudio.com/items?itemName=ms-python.python) and [Jupyter  in VScode](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+4. Install [IPython kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html) from the terminal
+
